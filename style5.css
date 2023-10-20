@@ -1,0 +1,33 @@
+body {
+  margin: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: e36414;
+}
+
+.img1 {
+  width: 150px;
+  border: 1px solid #cfd9de;
+  border-radius: 20px;
+}
+
+.card {
+  display: flex;
+  margin: 0 auto;
+  padding: 20px;
+  width: 400px;
+  text-align: center;
+  justify-content: space-around;
+  color: #2b2839;
+  background: #ddebf8;
+  border: 6px solid #d8cefe;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.italic {
+  font-style: italic;
+  font-size: 18px;
+}
+
+.dotted {
+  border: 1px solid rgb(172, 172, 174);
+}
